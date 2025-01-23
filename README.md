@@ -9,7 +9,6 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) application created to 
 - **MongoDB**: NoSQL database to store and manage data.
 - **User Authentication**: Login, register, and user session management.
 - **CRUD Operations**: Create, Read, Update, and Delete operations for handling data.
-- **Deployment**: Easily deployable on platforms like Vercel for the frontend and Node.js servers.
 
 ## Technologies Used
 
@@ -17,7 +16,6 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) application created to 
 - **Express.js**: Server-side framework for building REST APIs.
 - **React.js**: Frontend library for building user interfaces.
 - **Node.js**: JavaScript runtime for backend functionality.
-- **Vercel**: Hosting and deployment of both frontend and backend.
 - **Axios**: Promise-based HTTP client for frontend communication with the backend.
 
 ## Getting Started
@@ -29,4 +27,4 @@ To get a local copy up and running, follow these steps:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Allah-Rakha/mern-project.git
+git clone https://github.com/Allah-Rakha/MERN-Project.git
